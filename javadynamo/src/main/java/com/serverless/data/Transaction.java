@@ -1,4 +1,4 @@
-package com.serverless.com.serverless.data;
+package com.serverless.data;
 
 import com.amazonaws.services.dynamodbv2.datamodeling.DynamoDBAttribute;
 import com.amazonaws.services.dynamodbv2.datamodeling.DynamoDBHashKey;

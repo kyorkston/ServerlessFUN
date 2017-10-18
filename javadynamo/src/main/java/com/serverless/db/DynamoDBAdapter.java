@@ -6,7 +6,7 @@ import com.amazonaws.services.dynamodbv2.AmazonDynamoDBClientBuilder;
 import com.amazonaws.services.dynamodbv2.datamodeling.DynamoDBMapper;
 import com.amazonaws.services.dynamodbv2.datamodeling.DynamoDBQueryExpression;
 import com.amazonaws.services.dynamodbv2.model.AttributeValue;
-import com.serverless.com.serverless.data.Transaction;
+import com.serverless.data.Transaction;
 import org.apache.log4j.Logger;
 
 import java.io.IOException;

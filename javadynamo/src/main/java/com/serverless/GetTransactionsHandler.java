@@ -2,9 +2,8 @@ package com.serverless;
 
 import com.amazonaws.services.lambda.runtime.Context;
 import com.amazonaws.services.lambda.runtime.RequestHandler;
-import com.serverless.com.serverless.data.Transaction;
-import com.serverless.com.serverless.db.DynamoDBAdapter;
-import org.apache.log4j.BasicConfigurator;
+import com.serverless.data.Transaction;
+import com.serverless.db.DynamoDBAdapter;
 import org.apache.log4j.Logger;
 
 import java.util.Collections;
