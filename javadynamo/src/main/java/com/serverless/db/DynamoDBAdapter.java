@@ -1,4 +1,4 @@
-package com.serverless.com.serverless.db;
+package com.serverless.db;
 
 import com.amazonaws.client.builder.AwsClientBuilder;
 import com.amazonaws.services.dynamodbv2.AmazonDynamoDB;
